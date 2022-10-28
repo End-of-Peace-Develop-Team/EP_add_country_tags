@@ -1,0 +1,22 @@
+#Asia
+BAL	= "countries/Asia.txt"	#バルチスタン
+GAN	= "countries/Asia.txt"	#甘粛
+HYD	= "countries/Asia.txt"	#ハイデラバード
+KAS	= "countries/Asia.txt"	#カシミール
+MYS	= "countries/Asia.txt"	#マイソール
+NIG	= "countries/Asia.txt"	#寧夏
+OTT	= "countries/Asia.txt"	#オスマン
+QIG	= "countries/Asia.txt"	#青海
+TRV	= "countries/Asia.txt"	#トラヴァンコール
+
+#Middle East
+
+#Commonwealth
+
+#Western Europe
+
+#Eastern Europe
+
+#Africa
+
+#South America
