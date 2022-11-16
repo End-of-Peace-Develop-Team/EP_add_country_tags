@@ -149,8 +149,8 @@ NEP = {	#ネパール
 	color_ui = rgb { 152 130 191 }
 }
 OMA = {	#オマーン
-	color = rgb { 98 134 153 }
-	color_ui = rgb { 98 134 153 }
+	color = rgb { 195 150 93 }
+	color_ui = rgb { 195 150 93 }
 }
 PAK = {	#パキスタン
 	color = rgb { 1 65 28 }
@@ -1041,9 +1041,37 @@ BAL = {	#バルチスタン
 	color = rgb { 0 66 38 }
 	color_ui = rgb { 0 66 38 }
 }
+BRN = {	#ブルネイ
+	color = rgb { 247 224 23 }
+	color_ui = rgb { 247 224 23 }
+}
+CSP = {	#カスピ
+	color = rgb { 8 123 93 }
+	color_ui = rgb { 8 123 93 }
+}
+FNG = {	#奉天
+	color = rgb { 189 113 33 }
+	color_ui = rgb { 189 113 33 }
+}
 GAN = {	#甘粛
 	color = rgb { 153 116 53 }
 	color_ui = rgb { 153 116 53 }
+}
+GZH = {	#貴州
+	color = rgb { 68 68 68 }
+	color_ui = rgb { 68 68 68 }
+}
+HEZ = {	#ヒジャーズ
+	color = rgb { 210 190 150 }
+	color_ui = rgb { 210 190 150 }
+}
+HIL = {	#ハーイル
+	color = rgb { 248 196 32 }
+	color_ui = rgb { 248 196 32 }
+}
+HNN = {	#湖南
+	color = rgb { 80 135 224 }
+	color_ui = rgb { 80 135 224 }
 }
 HYD = {	#ハイデラバード
 	color = rgb { 222 34 25 }
@@ -1053,9 +1081,21 @@ KAS = {	#カシミール
 	color = rgb { 255 147 147 }
 	color_ui = rgb { 255 147 147 }
 }
+KUM = {	#クムル
+	color = rgb { 243 244 200 }
+	color_ui = rgb { 243 244 200 }
+}
+MSC = {	#マスカット
+	color = rgb { 98 134 153 }
+	color_ui = rgb { 98 134 153 }
+}
 MYS = {	#マイソール
 	color = rgb { 153 51 51 }
 	color_ui = rgb { 153 51 51 }
+}
+NAJ = {	#ナジュド
+	color = rgb { 13 98 62 }
+	color_ui = rgb { 13 98 62 }
 }
 NIG = {	#寧夏
 	color = rgb { 105 69 85 }
@@ -1069,14 +1109,78 @@ QIG = {	#青海
 	color = rgb { 114 71 24 }
 	color_ui = rgb { 114 71 24 }
 }
+SCH = {	#四川
+	color = rgb { 188 155 71 }
+	color_ui = rgb { 188 155 71 }
+}
+SGH = {	#上海
+	color = rgb { 255 213 9 }
+	color_ui = rgb { 255 213 9 }
+}
+SHD = {	#山東
+	color = rgb { 255 150 50 }
+	color_ui = rgb { 255 150 50 }
+}
+SKM = {	#シッキム
+	color = rgb { 253 36 30 }
+	color_ui = rgb { 253 36 30 }
+}
+SRW = {	#サラワク
+	color = rgb { 255 152 26 }
+	color_ui = rgb { 255 152 26 }
+}
+TIA = {	#天津
+	color = rgb { 118 224 127 }
+	color_ui = rgb { 118 224 127 }
+}
+TNG = {	#タンガニスタン
+	color = rgb { 188 100 67 }
+	color_ui = rgb { 188 100 67 }
+}
+TRK = {	#トルキスタン
+	color = rgb { 74 155 220 }
+	color_ui = rgb { 74 155 220 }
+}
 TRV = {	#トラヴァンコール
 	color = rgb { 237 28 36 }
 	color_ui = rgb { 237 28 36 }
 }
+XIK = {	#西康
+	color = rgb { 84 127 151 }
+	color_ui = rgb { 84 127 151 }
+}
 
 #ヨーロッパ
+ADR = {	#アンドラ
+	color = rgb { 245 208 102 }
+	color_ui = rgb { 245 208 102 }
+}
+GBR = {	#グレートブリテン
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 201 56 93 }
+}
+LIE = {	#リヒテンシュタイン
+	color = rgb { 0 43 127 }
+	color_ui = rgb { 0 43 127 }
+}
+MCO = {	#モナコ
+	color = rgb { 231 136 147 }
+	color_ui = rgb { 231 136 147 }
+}
+NTL = {	#ネーデルラント
+	color = rgb { 255 154 0 }
+	color_ui = rgb { 255 154 0 }
+}
+SMR = {	#サンマリノ
+	color = rgb { 94 182 228 }
+	color_ui = rgb { 94 182 228 }
+}
 
 #アフリカ
+TGE = {	#タンジェ
+	color = rgb { 0 165 250 }
+	color_ui = rgb { 0 165 250 }
+}
 
 #新大陸
 

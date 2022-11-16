@@ -1,22 +1,48 @@
 #Asia
 BAL	= "countries/Asia.txt"	#バルチスタン
+BRN	= "countries/Asia.txt"	#ブルネイ
+CSP	= "countries/Asia.txt"	#カスピ
+FNG	= "countries/Asia.txt"	#奉天
 GAN	= "countries/Asia.txt"	#甘粛
+GZH	= "countries/Asia.txt"	#貴州
+HNN	= "countries/Asia.txt"	#湖南
 HYD	= "countries/Asia.txt"	#ハイデラバード
 KAS	= "countries/Asia.txt"	#カシミール
+KUM	= "countries/Asia.txt"	#クムル
 MYS	= "countries/Asia.txt"	#マイソール
 NIG	= "countries/Asia.txt"	#寧夏
 OTT	= "countries/Asia.txt"	#オスマン
 QIG	= "countries/Asia.txt"	#青海
+SCH	= "countries/Asia.txt"	#四川
+SGH	= "countries/Asia.txt"	#上海
+SHD	= "countries/Asia.txt"	#山東
+SKM	= "countries/Asia.txt"	#シッキム
+SRW	= "countries/Asia.txt"	#サラワク
+TIA	= "countries/Asia.txt"	#天津
+TNG	= "countries/Asia.txt"	#タンガニスタン
+TRK	= "countries/Asia.txt"	#トルキスタン
 TRV	= "countries/Asia.txt"	#トラヴァンコール
+XIK	= "countries/Asia.txt"	#西康
 
 #Middle East
+HEZ	= "countries/Middle East.txt"	#ヒジャーズ
+HIL	= "countries/Middle East.txt"	#ハーイル
+MSC	= "countries/Middle East.txt"	#マスカット
+NAJ	= "countries/Middle East.txt"	#ナジュド
 
 #Commonwealth
 
 #Western Europe
+ADR	= "countries/Western Europe.txt"	#アンドラ
+GBR	= "countries/Western Europe.txt"	#グレートブリテン
+LIE	= "countries/Western Europe.txt"	#リヒテンシュタイン
+MCO	= "countries/Western Europe.txt"	#モナコ
+NTL	= "countries/Western Europe.txt"	#ネーデルラント
+SMR	= "countries/Western Europe.txt"	#サンマリノ
 
 #Eastern Europe
 
 #Africa
+TGE	= "countries/Africa.txt"	#タンジェ
 
 #South America
