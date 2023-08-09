@@ -81,8 +81,8 @@ ISR = {	#イスラエル
 	color_ui = rgb { 0 73 144 }
 }
 JAP = {	#日本
-	color = rgb { 230 230 230 }
-	color_ui = rgb { 230 230 230 }
+	color = rgb { 219 184 155 }
+	color_ui = rgb { 219 184 155 }
 }
 JOR = {	#ヨルダン
 	color = rgb { 111 55 78 }
@@ -275,8 +275,8 @@ ALB = {	#アルバニア
 	color_ui = rgb { 149 45 102 }
 }
 AUS = {	#オーストリア
-	color = rgb { 194 198 215 }
-	color_ui = rgb { 194 198 215 }
+	color = rgb { 104 104 104 }
+	color_ui = rgb { 104 104 104 }
 }
 BAY = {	#バイエルン
 	color = rgb { 0 152 212 }
@@ -287,12 +287,12 @@ BEL = {	#ベルギー
 	color_ui = rgb { 250 224 66 }
 }
 BLR = {	#ベラルーシ
-	color = rgb { 180 220 190 }
-	color_ui = rgb { 180 220 190 }
+	color = rgb { 239 238 215 }
+	color_ui = rgb { 239 238 215 }
 }
 BOS = {	#ボスニア
-	color = rgb { 255 240 40 }
-	color_ui = rgb { 255 240 40 }
+	color = rgb { 91 127 0 }
+	color_ui = rgb { 91 127 0 }
 }
 BRI = {	#ブルターニュ
 	color = rgb { 170 170 170 }
@@ -339,8 +339,8 @@ DAG = {	#ダゲスタン
 	color_ui = rgb { 0 145 64 }
 }
 DEN = {	#デンマーク
-	color = rgb { 198 12 48 }
-	color_ui = rgb { 198 12 48 }
+	color = rgb { 127 0 110 }
+	color_ui = rgb { 127 0 110 }
 }
 DNZ = {	#ダンツィヒ
 	color = rgb { 191 0 0 }
@@ -371,8 +371,8 @@ FRA = {	#フランス
 	color_ui = rgb { 0 35 149 }
 }
 GER = {	#ドイツ
-	color = rgb { 102 89 86 }
-	color_ui = rgb { 102 89 86 }
+	color = rgb { 115 115 115 }
+	color_ui = rgb { 115 115 115 }
 }
 GLC = {	#ガリシア
 	color = rgb { 0 153 204 }
@@ -407,8 +407,8 @@ IRE = {	#アイルランド
 	color_ui = rgb { 22 155 98 }
 }
 ITA = {	#イタリア
-	color = rgb { 0 146 70 }
-	color_ui = rgb { 0 146 70 }
+	color = rgb { 59 148 65 }
+	color_ui = rgb { 59 148 65 }
 }
 KAL = {	#カルムイク
 	color = rgb { 255 199 44 }
@@ -447,8 +447,8 @@ LAT = {	#ラトビア
 	color_ui = rgb { 158 48 57 }
 }
 LIT = {	#リトアニア
-	color = rgb { 253 185 19 }
-	color_ui = rgb { 253 185 19 }
+	color = rgb { 38 127 0 }
+	color_ui = rgb { 38 127 0 }
 }
 LUX = {	#ルクセンブルク
 	color = rgb { 0 161 222 }
@@ -591,8 +591,8 @@ UDM = {	#ウドムルト
 	color_ui = rgb { 165 141 138 }
 }
 UKR = {	#ウクライナ
-	color = rgb { 0 80 230 }
-	color_ui = rgb { 0 80 230 }
+	color = rgb { 153 61 0 }
+	color_ui = rgb { 153 61 0 }
 }
 VAT = {	#バチカン
 	color = rgb { 236 175 3 }
@@ -979,8 +979,8 @@ URG = {	#ウルグアイ
 	color_ui = rgb { 113 144 207 }
 }
 USA = {	#アメリカ
-	color = rgb { 56 86 134 }
-	color_ui = rgb { 56 86 134 }
+	color = rgb { 64 117 183 }
+	color_ui = rgb { 64 117 183 }
 }
 VEN = {	#ベネズエラ
 	color = rgb { 82 104 122 }
@@ -1102,8 +1102,8 @@ NIG = {	#寧夏
 	color_ui = rgb { 105 69 85 }
 }
 OTT = {	#オスマン
-	color = rgb { 203 32 39 }
-	color_ui = rgb { 203 32 39 }
+	color = rgb { 123 0 0 }
+	color_ui = rgb { 123 0 0 }
 }
 QIG = {	#青海
 	color = rgb { 114 71 24 }
@@ -1156,8 +1156,8 @@ ADR = {	#アンドラ
 	color_ui = rgb { 245 208 102 }
 }
 GBR = {	#グレートブリテン
-	color = rgb { 201 56 93 }
-	color_ui = rgb { 201 56 93 }
+	color = rgb { 168 47 81 }
+	color_ui = rgb { 168 47 81 }
 }
 LIE = {	#リヒテンシュタイン
 	color = rgb { 0 43 127 }
